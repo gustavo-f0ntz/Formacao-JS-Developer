@@ -1,5 +1,6 @@
 const valorDeEntrada = [2000, 250];
 let i = 0;
+
 function gets() {
     const valor = valorDeEntrada[i];
     i++;
